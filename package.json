@@ -1,0 +1,11 @@
+{
+	"name": "palmic.backbone.io",
+	"description": "my first backbone.io app",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"backbone.mongoose": "x",
+		"backbone.io": "x",
+		"Backbone.Marionette.Handlebars": "x"
+	}
+}
